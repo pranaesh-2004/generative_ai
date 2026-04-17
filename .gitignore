@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+backend/venv/
+.env
+
+# Model checkpoints
+backend/models/
+*.pt
+*.bin
+*.safetensors
+
+# Training outputs
+checkpoint-*/
+outputs/
+logs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
