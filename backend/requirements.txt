@@ -1,0 +1,12 @@
+Flask
+flask-cors
+pymongo
+python-dotenv
+transformers
+torch
+groq
+openpyxl
+datasets
+accelerate
+scikit-learn
+pandas
